@@ -49,7 +49,7 @@ Fork->Edit->Commit->PR，就是这么简单，对于课程的模板可以参考[
 
 #### 软件工程
 
-#### 本科三年级
+### 本科三年级
 
 - [编译原理与技术](./grade-3/Compilers.md)
 - [操作系统](./grade-3/Operating-Systems.md)
@@ -71,3 +71,7 @@ Fork->Edit->Commit->PR，就是这么简单，对于课程的模板可以参考[
 #### 网络工程
 
 #### 软件工程
+
+### 其他
+
+- [CTF](./misc/CTF.md)
