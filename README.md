@@ -43,7 +43,7 @@ Fork->Edit->Commit->PR，就是这么简单，对于课程的模板可以参考[
 
 - [数据结构](./grade-2/cs/Data-Structures.md)
 - [计算机网络](./grade-2/cs/Computer-Networks.md)
-- [计算机计算机系统基础](./grade-2/cs/CSAPP.md)
+- [计算机系统基础](./grade-2/cs/CSAPP.md)
 - [计算机组成原理](./grade-2/cs/Computer-Organization.md)
 - [面向对象程序设计实践 (C++)](./grade-2/cs/C++.md)
 
